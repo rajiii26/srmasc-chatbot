@@ -1,8 +1,9 @@
-langdetect
-googletrans==4.0.0-rc1
-httpx
-flask
-ipykernel
-sentence-transformers faiss-cpu
-langchain
 streamlit
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+deep-translator
+langdetect
+pypdf
